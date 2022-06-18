@@ -1,4 +1,4 @@
-- 👋 Hi, I’m S Prabhat a son, husband , father and techie
+- 👋 Hi, I’m a son, husband , father and techie
 - 👀 I’m passionate about learning new technology which motivates me working in IT industry to solve new problem everyday.
 - 🌱 I've proven ability to multitask, a high attention to detail and able to work to deadlines.
 - 💞️ I'm proactive and positive team member, with a ‘can do’ attitude to all projects.
