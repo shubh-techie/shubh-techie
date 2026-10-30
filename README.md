@@ -21,6 +21,22 @@ I'm a software engineering leader, architect, researcher, and lifelong learner w
 - 💼 [LinkedIn](https://www.linkedin.com/in/s-prabhat/)
 - 📧 [Email](mailto:shubh.techie@gmail.com)
 
+
+
+
+🚀 Join the AeglysAI Developer Community!
+
+Connect with developers, AI/ML researchers, cybersecurity enthusiasts, and open-source contributors.
+
+💡 Collaborate on real-world AI and distributed systems projects.
+🤝 Share ideas, learn, and contribute to open source.
+🏆 Participate in hackathons, including AEGYTHON 2026.
+🌐 Network with technology professionals worldwide.
+
+💬 Join our Discord: https://discord.gg/7Vf3uWAmn
+
+Let's learn, build, and innovate together! 🚀
+
 <!---
 shubh-techie/shubh-techie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
