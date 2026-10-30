@@ -1,8 +1,25 @@
-- 👋 Hi, I’m a son, husband , father and techie
-- 👀 I’m passionate about learning new technology which motivates me working in IT industry to solve new problem everyday.
-- 🌱 I've proven ability to multitask, a high attention to detail and able to work to deadlines.
-- 💞️ I'm proactive and positive team member, with a ‘can do’ attitude to all projects.
-- 📫 reach me shubh.techie@gmail.com
+## 👋 Hi, I'm Shubh Prabhat
+
+**Software Engineering Leader | Solution Architect | Distributed Systems | Cloud Security | AI/ML**
+
+I'm a software engineering leader, architect, researcher, and lifelong learner with **18+ years of experience** designing and building enterprise-scale applications, cloud-native platforms, and distributed systems.
+
+🔭 **Currently working on:** [AeglysAI](https://github.com/shubh-techie/AeglysAI) — an open-source research initiative exploring AI-driven security automation, identity intelligence, anomaly detection, and resilient distributed systems.
+
+🌱 **Currently exploring:** Applied AI/ML, Zero Trust architectures, intelligent automation, distributed systems reliability, and cloud-native engineering.
+
+🛠️ **Technical interests:** C#/.NET, Java, Python, Azure, microservices, event-driven architecture, cybersecurity, and AI engineering.
+
+🤝 **Open to:** Research collaborations, open-source contributions, technical discussions, mentoring, and knowledge sharing.
+
+💡 **My philosophy:** Build with purpose, engineer for reliability, and never stop learning.
+
+👨‍👩‍👧‍👧 Beyond technology, I'm a husband, father, and lifelong learner who values family, curiosity, and meaningful connections.
+
+📫 **Connect with me:**
+- 🌐 [Personal Website](https://sprabhat.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/s-prabhat/)
+- 📧 [Email](mailto:shubh.techie@gmail.com)
 
 <!---
 shubh-techie/shubh-techie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
