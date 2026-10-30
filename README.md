@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Shubh Prabhat
+## 👋 Hi, I'm Prabhat
 
 **Software Engineering Leader | Solution Architect | Distributed Systems | Cloud Security | AI/ML**
 
@@ -21,10 +21,11 @@ I'm a software engineering leader, architect, researcher, and lifelong learner w
 - 💼 [LinkedIn](https://www.linkedin.com/in/s-prabhat/)
 - 📧 [Email](mailto:shubh.techie@gmail.com)
 
+<br>
+<br>
+<br>
 
-
-
-🚀 Join the AeglysAI Developer Community!
+🚀 **Join the AeglysAI Developer Community!**
 
 Connect with developers, AI/ML researchers, cybersecurity enthusiasts, and open-source contributors.
 
