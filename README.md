@@ -30,8 +30,11 @@ I'm a software engineering leader, architect, researcher, and lifelong learner w
 Connect with developers, AI/ML researchers, cybersecurity enthusiasts, and open-source contributors.
 
 💡 Collaborate on real-world AI and distributed systems projects.
+
 🤝 Share ideas, learn, and contribute to open source.
+
 🏆 Participate in hackathons, including AEGYTHON 2026.
+
 🌐 Network with technology professionals worldwide.
 
 💬 Join our Discord: https://discord.gg/7Vf3uWAmn
